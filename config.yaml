@@ -1,0 +1,6 @@
+# config.yaml
+ssh_host: 3.27.226.56
+ssh_port: 22
+ssh_user: ubuntu
+ssh_key: /home/ubuntu/go_gemini/ssh/yamaxun.pem
+web_port: 8086
